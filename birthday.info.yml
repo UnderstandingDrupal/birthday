@@ -1,0 +1,4 @@
+name: Birthday
+description: A module to wish you happy birthday in many different ways
+core: 8.x
+type: module
